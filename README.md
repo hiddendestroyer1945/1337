@@ -4,8 +4,4 @@ It's leet speak learning repository. This each .md file is explaining specific s
 
 ## Table of contents
 
-* **Leet Speak**
-
-## Links Are Given Bellow
-
-Click [here](leet-speak.md) to read the leet speak explanation!
+* **[Leet Speak](leet-speak.md)**
